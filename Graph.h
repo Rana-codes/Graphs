@@ -1,6 +1,6 @@
 // Student Name: Harsh Rana
 //
-// CPSC 2150 specifications by Gladys Monagan
+// CPSC 2150 specifications by Dr. Gladys Monagan
 #ifndef GRAPH_H
 #define GRAPH_H
 #include <iostream>
